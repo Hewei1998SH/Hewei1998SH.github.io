@@ -1,10 +1,10 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(800, 800);
 }
 
 function draw() {
   if (mouseIsPressed) {
-    fill(0);
+    fill(126);
   } else {
     fill(255);
   }
