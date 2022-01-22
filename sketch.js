@@ -6,7 +6,7 @@ function setup() {
   let p4 = p3 + d;
 
   // Sets the screen to be 720 pixels wide and 400 pixels high
-  createCanvas(720, 400);
+  createCanvas(2000, 1200);
   background(0);
   noSmooth();
 
